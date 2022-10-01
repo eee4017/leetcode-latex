@@ -3,6 +3,3 @@
 *.pdf
 *.html
 *.tex
-
-figure/*
-json/*
